@@ -6,7 +6,7 @@ description: >-
   This Is How Me Do It!
 google_analytics: "UA-89852122-6"
 author:           "Kristianto Desun"
-address:          "Pamulang"
+address:          "Jambi"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
