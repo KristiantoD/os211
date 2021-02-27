@@ -6,6 +6,6 @@ ALL: 004.md
         _includes/navbar.html \
         _includes/footer.html _includes/head.html _includes/google-analytics.html \
 	assets/css/style.css assets/scripts/includeScript.py 
-	python assets/scripts/includeScript.py < 004.pmd > 004.md
+	python assets/scripts/includeScript.py
 
 .phony: ALL
