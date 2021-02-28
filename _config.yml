@@ -16,4 +16,4 @@ urlcontact:       "TBS"
 urlgithub:        "https://github.com/KristiantoD/os211/"
 urlghpage:        "https://KristiantoD.github.io/os211/"
 keywords:         "jekyll, testing"
-github:           [metadata]
+github:           [metadata] 
