@@ -10,6 +10,7 @@
   <header> 
   <div class="row">
     <div class="column left">
+      <a href="{{ site.urlgithub }}"><img src="{{ site.baseurl }}/assets/image/github.png" alt="{{ site.urlgithub }}"></a>
     </div>
     <div class="column right1">
       {% if page.title %}{{ page.title | escape }}
@@ -25,9 +26,9 @@
   </div>
   </header>
   {% include navbar.html %}
-  <div class="content">d
+  <div class="content">
             {{ content }}
-            </div>
+            </div> 
 </div>
 </body>
 </html>
