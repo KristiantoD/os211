@@ -113,7 +113,7 @@
 .navbar {
   background-color: #2c3e50;
   color:            #FFFAFA;
-  font-size:        0.7em;
+  font-size:        2em;
 }
 
 .navbar ul li {
@@ -128,9 +128,9 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
-  font-size:        1em;
+  background-color:       black;
+  color:            #00FFFF;
+  font-size:        2em;
   font-weight:      bold;
 }
 
