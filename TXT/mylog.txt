@@ -16,3 +16,4 @@ ZCZC  W01  60  L21 VirtualBox: learn
 ZCZC  W01  120 L08 Trying something
 ZCZC  W01  30  L09 AsDos: asking, listening
 ZCZC  W01  60  L21 VirtualBox: test
+ZCZC  W01  60  L10 Assignment top10 and week1
