@@ -26,3 +26,4 @@ ZCZC  W02  120 L10 Assignment top10 week2
 ZCZC  W03  88  L02 ZOOM related
 ZCZC  W03  10  L06 Read W03
 ZCZC  W03  60  L10 W03 assignment test
+ZCZC  W03  240 L10 Finishing W03 assigmet + top10
