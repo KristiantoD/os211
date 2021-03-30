@@ -28,4 +28,5 @@ ZCZC  W03  10  L06 Read W03
 ZCZC  W03  60  L10 W03 assignment test
 ZCZC  W03  240 L10 Finishing W03 assigmet + top10
 ZCZC  W04  101 L02 ZOOM related
-ZCZC  W04  60  L10 Assigment w05
+ZCZC  W04  60  L10 Assigment w04
+ZCZC  W04  180 L10 Finishing W04 assigmet + top10
