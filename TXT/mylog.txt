@@ -30,3 +30,6 @@ ZCZC  W03  240 L10 Finishing W03 assigmet + top10
 ZCZC  W04  101 L02 ZOOM related
 ZCZC  W04  60  L10 Assigment w04
 ZCZC  W04  180 L10 Finishing W04 assigmet + top10
+ZCZC  W05  90  L02 ZOOM related
+ZCZC  W04  90  L10 Assigment w05
+ZCZC  W04  60  L99 preparing and do Quiz
