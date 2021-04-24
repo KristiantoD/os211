@@ -31,5 +31,10 @@ ZCZC  W04  101 L02 ZOOM related
 ZCZC  W04  60  L10 Assigment w04
 ZCZC  W04  180 L10 Finishing W04 assigmet + top10
 ZCZC  W05  90  L02 ZOOM related
-ZCZC  W04  90  L10 Assigment w05
-ZCZC  W04  60  L99 preparing and do Quiz
+ZCZC  W05  90  L10 Assigment w05
+ZCZC  W05  60  L99 preparing and do Quiz
+ZCZC  W05  180 L10 Finishing W05 top10
+ZCZC  W06  100 L02 ZOOM related
+ZCZC  W06  90  L10 Assigment w05
+ZCZC  W06  30  L99 do Quiz
+ZCZC  W06  180 L10 Finishing W05 top10
