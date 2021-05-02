@@ -38,3 +38,6 @@ ZCZC  W06  100 L02 ZOOM related
 ZCZC  W06  90  L10 Assigment w05
 ZCZC  W06  30  L99 do Quiz
 ZCZC  W06  180 L10 Finishing W05 top10
+ZCZC  W07  100 L02 Zoom related
+ZCZC  W07  30  L99 do Quiz
+ZCZC  W07  240 L10 Finishing W05 top10
