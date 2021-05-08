@@ -44,3 +44,4 @@ ZCZC  W07  240 L10 Finishing W07 top10
 ZCZC  W08  105 L02 Zoom related
 ZCZC  W08  30  L99 do Quiz
 ZCZC  W08  240 L10 Finishing W08 LFS
+ZCZC  W07  60  L10 Finishing W08 top10
