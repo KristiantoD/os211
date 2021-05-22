@@ -20,3 +20,6 @@ ZCZC W06 MarioSerano
 ZCZC W07 mardianto-byte
 ZCZC W07 marcianadin
 ZCZC W07 machffud
+ZCZC W08 mardianto-byte
+ZCZC W08 marcianadin
+ZCZC W08 machffud
